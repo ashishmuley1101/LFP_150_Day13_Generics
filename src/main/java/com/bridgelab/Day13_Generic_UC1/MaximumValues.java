@@ -1,4 +1,4 @@
-package com.bridgelab.Day13_Generic;
+package com.bridgelab.Day13_Generic_UC1;
 
 public class MaximumValues {
 
